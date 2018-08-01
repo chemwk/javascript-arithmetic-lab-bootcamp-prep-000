@@ -9,6 +9,7 @@ function subtract(a,b){
 }
 
 
+<<<<<<< HEAD
 function multiply(a,b){
   return a*b
 }
@@ -37,3 +38,5 @@ function preserveDecimal(n){
   return parseFloat(n)
 }
 
+=======
+>>>>>>> fba9973183a95892fa75ebde853e53e0639a4a4a
